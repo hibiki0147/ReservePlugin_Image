@@ -1,1 +1,1 @@
-# これは「ReservePlugin」用の画像リポジトリです。(h1)
+# これは「ReservePlugin」用の画像リポジトリです。
